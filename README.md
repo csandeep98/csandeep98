@@ -28,16 +28,18 @@ I am a Data Scientist passionate about building data-driven solutions that solve
 
 ## 📊 GitHub Analytics
 
-### 🔧 GitHub Metrics (GitHub-safe icons)
+### 🔧 GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/csandeep98?template=classic&config.animated=false&config.display=columns&languages=1&achievements=1&notable=1&config.octicon=true)
 
 ---
 
-### 🏆 GitHub Profile Trophy (SVG-only, no external fonts)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=csandeep98&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Profile Trophy
+[![Trophy](https://github-profile-trophy.vercel.app/?username=csandeep98&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/csandeep98)
 
 ---
 
-### 🔥 GitHub Streak Stats (Fully compatible)
-[![GitHub Streak](https://streak-stats.demolab.com?user=csandeep98&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=csandeep98&theme=dark&hide_border=true)](https://github.com/csandeep98)
+
+
 
